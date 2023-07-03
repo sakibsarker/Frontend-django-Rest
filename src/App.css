@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 ;
+  padding: 2rem;
+ 
+}
+
+
+body {
+  background-color:#24262E;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px+2vmin);
+  color:white;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+.App-Link{
+  color: #61dafbaa;
+}
